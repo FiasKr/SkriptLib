@@ -29,4 +29,4 @@ Also working for slaps without changing the blocks orientation.
 
 ###### /age_all
 
-Replaces every block.
+Replaces stone blocks of types: x, y, z.
