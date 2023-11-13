@@ -10,7 +10,7 @@ A small library providing some scripts for PaperMC-Servers using [SkriptLang](ht
 
 ## Using the Library
 
-The plugin stores the scripts under **SERVER/plugins/Skript/scripts**. New folders and scripts can be added there.
+The plugin stores the scripts under **SERVER/plugins/Skript/scripts**. New folders and scripts can be added here.
 To use the library, just clone this project into your **scripts** folder and reload the plugin by using the command **/skript reload all**.
 You can also just download the files and copy them to the folder manually.
 
@@ -22,9 +22,11 @@ Adding commands to make WorldEdit workflows easier.
 
 #### age.sk
 
-This scipt provides commands to randomly replace **stone bricks** in a selected area with **mossy- and broken stone bricks**.
+This script provides commands to randomly replace **stone bricks** in a selected area with **mossy- and broken stone bricks**.
 Also working for slaps without changing the blocks orientation.
 
-##### /age_all
+##### Featured Commands
+
+###### /age_all
 
 Replaces every block.
